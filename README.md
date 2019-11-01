@@ -7,7 +7,8 @@
 `./filename.sh`
 
 
-**Topics in this repo**
+
+## Topics in this repo
 
 - `echo`  
 - *comments*
