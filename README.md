@@ -2,7 +2,7 @@
 
 > NOTE: First you read the file and then execute that script
 
-* To execute script _ ./filename.sh_
+* To execute script  _ ./filename.sh _
 
 
 - `echo`  
