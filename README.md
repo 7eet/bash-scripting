@@ -4,7 +4,7 @@
 
 **To execute script type following line after terminal prompt** 
 
-	`./filename.sh`
+`./filename.sh`
 
 
 **Topics in this repo**
