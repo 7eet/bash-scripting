@@ -10,7 +10,7 @@
 
 ## Topics in this repo
 
-- `echo`  
+- `echo`  - 
 - *comments*
-	- *single line comment*
-	- *multiline comment*
+	- *single line comment* - **use -> # to comment **
+	- *multiline comment* - ** use -> :' <enter comment here> ' **
