@@ -12,5 +12,5 @@
 
 - `echo`  - 
 - *comments*
-	- *single line comment* - **use -> # to comment **
+	- *single line comment* - ** use -> # to comment **
 	- *multiline comment* - ** use -> :' <enter comment here> ' **
