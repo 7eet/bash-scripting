@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "CASE STATEMENT"
 
 vi="hii"
