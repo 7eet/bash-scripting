@@ -1,13 +1,13 @@
 ## Bash Scripting Tutorial
 
 ### echo
-	 _used to print data on the console._
-	```
-		echo "hello world"
-	```
+_used to print data on the console._
+```
+	echo "hello world"
+```
 	
 ### comments
-	 _used to give information about script or a statement._
+_used to give information about script or a statement._
 	 
 	- **single line comment** - _use ->  `#` to comment_
 	```
@@ -26,7 +26,7 @@
 	```
 	
 ###  case statement 
-	 _It like a switch statements in other programming language._
+_It like a switch statements in other programming language._
 	```
 		case $var in 
 		case1 ) echo "Hello :)" ;;
@@ -34,7 +34,7 @@
 		* ) echo "hii" ;;
 		esac
 	```
-	_example:_
+_example:_
 	```
 		name="h"
 		case $name in
