@@ -19,7 +19,9 @@ echo "hello world"
 ```
 	# single line comment 
 ```
+
 	- **multiline comment** -  _use ->   `:' enter your comment here '`._
+
 ```	
 	:' 
 	this
@@ -37,8 +39,8 @@ case $var in
 	case2 ) echo "HIII :)" ;;
 	* ) echo "hii" ;;
 esac
-``
-
+```
+_example:_
 ```
 name="h"
 case $name in
