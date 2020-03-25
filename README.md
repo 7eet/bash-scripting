@@ -2,17 +2,18 @@
 
 ### echo
 	 _used to print data on the console._
-```
-echo "hello world"
-```
+	```
+		echo "hello world"
+	```
+	
 ### comments
 	 _used to give information about script or a statement._
+	 
 	- **single line comment** - _use ->  `#` to comment_
 	```
 		# single line comment 
 	```
 	- **multiline comment** -  _use ->   `:' enter your comment here '`._
-
 	```	
 		:' 
 		this
@@ -23,6 +24,7 @@ echo "hello world"
 		comment
 		'
 	```
+	
 ###  case statement 
 	 _It like a switch statements in other programming language._
 	```
