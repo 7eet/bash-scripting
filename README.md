@@ -68,7 +68,8 @@ _syntax_
 	fi
 ```
 
-### File Expressions
+### Expressions
+#### File
 | Expression      | Is true if |
 | --------------- | ---------- |
 | file1 -eq file2 | file1 and file2 have same inode number |
@@ -81,3 +82,22 @@ _syntax_
 | -w file         | file exists and is writable |
 | -x file         | file exists and is executable |
 | -s file         | file exists and has a length greater then zero |
+
+#### String
+| Expression         | Is true if |
+| ----------         | ---------- |
+| -n string          | the length of string is > 0 |
+| -z string          | the length of string is zero |
+| string1 == string2 | string1 and string2 are equal |
+| string1 != string2 | string1 and string2 are not equal |
+
+#### Integer
+| Expression | Is true is |
+| ---------- | ---------- |
+| integer1 -eq integer2 | integer1 is equal to integer2 |
+| integer1 -ne integer2 | integer1 is not equal to integer2 |
+| integer1 -le integer2 | integer1 is less than or equal to integer2 |
+| integer1 -lt integer2 | integer1 is less then integer2 |
+| integer1 -ge integer2 | integer1 is greater than or equal to integer2 |
+| integer1 -gt integer2 | integer1 is greater than integer2 |
+
